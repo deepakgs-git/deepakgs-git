@@ -1,9 +1,5 @@
 ## Hello, 👋 I am Deepak.
 
-<!--
-**deepakgs-git/deepakgs-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🛠️ What I Do:
     📋 Manage and streamline projects to meet deadlines efficiently.
